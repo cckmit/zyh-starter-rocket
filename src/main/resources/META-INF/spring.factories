@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zyh.rocket.base.utils.RocketSpringUtil,\
+  com.zyh.rocket.base.config.RocketAutoConfiguration,\
+  com.zyh.rocket.aliyun.config.AliyunRocketAutoConfiguration,\
+  com.zyh.rocket.aliyun.config.AliyunAspectConfiguration
